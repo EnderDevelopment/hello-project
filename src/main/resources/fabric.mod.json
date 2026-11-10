@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "asyncmapper",
+  "version": "${version}",
+  "name": "AsyncMapper",
+  "description": "Lightweight client-side hotbar slot toggle utility.",
+  "authors": ["EnderDevelopment"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.enderdevelopment.asyncmapper.AsyncMapperClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

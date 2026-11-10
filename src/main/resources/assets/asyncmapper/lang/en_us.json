@@ -1,0 +1,11 @@
+{
+  "key.asyncmapper.toggle": "Toggle Hotbar Slot",
+  "key.asyncmapper.config": "Open AsyncMapper Settings",
+  "key.categories.misc": "Miscellaneous",
+  "text.asyncmapper.slot": "Hotbar slot %s",
+  "screen.asyncmapper.title": "AsyncMapper Settings",
+  "screen.asyncmapper.enabled": "AsyncMapper: %s",
+  "screen.asyncmapper.target": "Target slot: %s",
+  "screen.asyncmapper.notifications": "Notifications: %s",
+  "screen.asyncmapper.key": "Activation key: %s"
+}
